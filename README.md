@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Angelynnayoung
 - 👀 I’m interested in coding!
-- 🌱 I’m currently learning JavaScript, HTML and CSS.
+- 🌱 I’m currently learning JavaScript, HTML, CSS and Python.
 - 📫 You can reach me at yangel66@aol.com.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I collect German Stamps!
